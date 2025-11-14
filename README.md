@@ -2,6 +2,9 @@
 
 Sistema de controle de estoque feito em Haskell. Gerencia itens com ID unico, nome, quantidade e categoria. Todas as operacoes sao persistidas em arquivo e auditadas com timestamp.
 
+##Site do Replit
+https://replit.com/@Jhonnyz1/Inventario-em-Haskell?v=1#main.hs
+
 ## Requisitos
 
 - GHC (Glasgow Haskell Compiler) versao 8.0 ou superior
